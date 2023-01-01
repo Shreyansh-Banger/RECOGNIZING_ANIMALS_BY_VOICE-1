@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Prosto One', cursive;
+    background: #21e70f;
+}
+
+.header_div
+    {
+        background: white;
+        color: #ce2700
+    }
+
+    .header_div p{
+        font-size: 30px;
+        font-family: 'Prosto One', cursive;
+        color: grey;
+        letter-spacing: 2px;
+        font-weight: bold;
+    }
+
+    .main_div button{
+        font-family: 'Prosto One', cursive;
+        margin-top: 30px;
+        width: 200px;
+        height: 50px;
+        font-size: 30px;
+        font-weight: bolder;
+        letter-spacing: 3px;
+    }
+    .copy_right_footer {
+        font-size: 30px;
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height:3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(0, 162, 255)
+}
+
+
